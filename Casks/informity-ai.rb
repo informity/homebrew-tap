@@ -1,8 +1,8 @@
 cask "informity-ai" do
   arch arm: "aarch64"
 
-  version "0.15.1"
-  sha256 arm: "48d54930e671f37c3914e97dfb426d8dcdbd002bb14e7ede20924e7f18286905"
+  version "0.16.0"
+  sha256 arm: "08ac277a53117c13f1f74b17aa28beb7ac41d7dd3283dbb0bf8ec248b46b207e"
 
   url "https://www.informity.ai/download/Informity_AI_#{version}_#{arch}.dmg"
   name "Informity AI"
